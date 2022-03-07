@@ -21,3 +21,6 @@ en el tiempo.
 
 # Complejidad temporal en práctica
 performance.now() es mas preciso que console.time() en Javascript.
+
+# Curso platzi
+* https://platzi.com/cursos/complejidad-js/
